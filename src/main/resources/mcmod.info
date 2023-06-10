@@ -1,0 +1,16 @@
+[
+{
+  "modid": "trush",
+  "name": "TRush",
+  "description": "TRush - mod for TLauncher prod. servers.",
+  "version": "${version}",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nxvxrmxndx"],
+  "credits": "Telegram: @nxvxrmxndx",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
